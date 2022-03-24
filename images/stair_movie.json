@@ -1,0 +1,97 @@
+{"frames": {
+
+"cover_01.png":
+{
+	"frame": {"x":504,"y":453,"w":483,"h":459},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":483,"h":459},
+	"sourceSize": {"w":483,"h":459}
+},
+"cover_02.png":
+{
+	"frame": {"x":987,"y":453,"w":510,"h":471},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":471},
+	"sourceSize": {"w":510,"h":471}
+},
+"cover_03.png":
+{
+	"frame": {"x":0,"y":0,"w":519,"h":453},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":519,"h":453},
+	"sourceSize": {"w":519,"h":453}
+},
+"new_stair_three.png":
+{
+	"frame": {"x":1230,"y":924,"w":468,"h":542},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":468,"h":542},
+	"sourceSize": {"w":468,"h":542}
+},
+"stair_01.png":
+{
+	"frame": {"x":519,"y":0,"w":504,"h":453},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":453},
+	"sourceSize": {"w":504,"h":453}
+},
+"stair_02.png":
+{
+	"frame": {"x":1023,"y":0,"w":504,"h":453},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":453},
+	"sourceSize": {"w":504,"h":453}
+},
+"stair_03.png":
+{
+	"frame": {"x":0,"y":453,"w":504,"h":453},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":453},
+	"sourceSize": {"w":504,"h":453}
+},
+"support_01.png":
+{
+	"frame": {"x":399,"y":924,"w":402,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":402,"h":528},
+	"sourceSize": {"w":402,"h":528}
+},
+"support_02.png":
+{
+	"frame": {"x":0,"y":924,"w":399,"h":492},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":399,"h":492},
+	"sourceSize": {"w":399,"h":492}
+},
+"support_03.png":
+{
+	"frame": {"x":801,"y":924,"w":429,"h":535},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":429,"h":535},
+	"sourceSize": {"w":429,"h":535}
+}},
+"animations": {
+	"cover": ["cover_01.png","cover_02.png","cover_03.png"],
+	"stair": ["stair_01.png","stair_02.png","stair_03.png"],
+	"support": ["support_01.png","support_02.png","support_03.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "stair_movie.png",
+	"format": "RGBA8888",
+	"size": {"w":1698,"h":1466},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:78f2db833a49c9c60d3907513aa64926:4412b6ab55eda433dd451702576d1189:8b9126649400057a32abdb857242983c$"
+}
+}

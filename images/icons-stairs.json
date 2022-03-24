@@ -1,0 +1,36 @@
+{"frames": {
+
+"icon-stairs-three.png":
+{
+	"frame": {"x":0,"y":0,"w":128,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":126},
+	"sourceSize": {"w":128,"h":126}
+},
+"icon-stairs-one.png":
+{
+	"frame": {"x":128,"y":0,"w":127,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":126},
+	"sourceSize": {"w":127,"h":126}
+},
+"icon-stairs-two.png":
+{
+	"frame": {"x":255,"y":0,"w":128,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":126},
+	"sourceSize": {"w":128,"h":126}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "icons-stairs.png",
+	"format": "RGBA8888",
+	"size": {"w":383,"h":126},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f21b9de7c4100bccb29bcd08f99246ef:2acb50a1f59ebbfc540059088c602437:55921aef3e9ffdd9a473c8aef8d81736$"
+}
+}
