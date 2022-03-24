@@ -1,5 +1,5 @@
 <h1 align="center">Playable для игры Homescapes-"Восстановление лестницы"</h1>
-<p align="center"><img src="images/logo.png" height="32" width="70"/></p>
+<p align="center"><img src="images/gitImg.png"/></p>
 <h2 align="center">Техническое задание</h2>
 <p>Playable - это реклама, в которую можно играть. В Playable зачастую отображается
 фрагмент геймплея и призыв к действию (например, установить приложение).
